@@ -59,6 +59,11 @@ python main.py
 # Hotel Booking System
 
 A web-based application designed to streamline room reservations, manage guest bookings, and optimize hotel management operations.
+## Installation Guide
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/hotel-booking-system.git](https://github.com/your-username/hotel-booking-system.git)
 ## Key Features
 
 - User Authentication: Secure registration and login for guests and admins.
