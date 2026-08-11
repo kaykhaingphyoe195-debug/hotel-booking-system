@@ -70,5 +70,4 @@ The project can be developed using separate branches such as:
 - `feature-registration`
 
 ## Author
-
-Yamin Shwe Zin Aung
+Kay Khaing Phyo
