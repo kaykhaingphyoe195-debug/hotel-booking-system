@@ -88,6 +88,10 @@ The database includes the following main entities:
 - Rooms: Holds room numbers, types, status, and nightly rates.
 - Bookings: Tracks check-in/check-out dates, total cost, and booking statuses.
 - Payments: Records transaction history and payment methods.
+
+## Project Status
+
+This project is currently under active development. New updates and bug fixes are pushed regularly.
 ## GitHub
 
 Recommended repository name:
