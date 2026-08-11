@@ -78,6 +78,9 @@ A web-based application designed to streamline room reservations, manage guest b
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js / Python / PHP (Adjust based on your project)
 - Database: MySQL / PostgreSQL / MongoDB
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 ## GitHub
 
 Recommended repository name:
