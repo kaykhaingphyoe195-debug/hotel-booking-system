@@ -56,6 +56,9 @@ python main.py
 | room_type | TEXT |
 | price | REAL |
 | status | TEXT |
+# Hotel Booking System
+
+A web-based application designed to streamline room reservations, manage guest bookings, and optimize hotel management operations.
 
 ## GitHub
 
