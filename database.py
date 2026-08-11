@@ -70,7 +70,7 @@ def seed_rooms():
 
     if count == 0:
         rooms = [
-            ("101", "Single", 35.00, "Available"),
+            ("103", "Single", 35.00, "Available"),
             ("102", "Double", 55.00, "Available"),
             ("201", "Deluxe", 80.00, "Available"),
             ("202", "Family", 100.00, "Available"),
