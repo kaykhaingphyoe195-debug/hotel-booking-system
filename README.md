@@ -35,7 +35,9 @@ pip install -r requirements.txt
 python init_db.py
 python main.py
 ```
+## Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and bug reports.
 ## Database Schema
 
 ### users
