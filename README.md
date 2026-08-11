@@ -66,6 +66,11 @@ A web-based application designed to streamline room reservations, manage guest b
 - Online Booking: Easy step-by-step room reservation process.
 - Admin Dashboard: Manage bookings, update room statuses, and view customer reports.
 
+## Tech Stack
+
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Node.js / Python / PHP (Adjust based on your project)
+- Database: MySQL / PostgreSQL / MongoDB
 ## GitHub
 
 Recommended repository name:
